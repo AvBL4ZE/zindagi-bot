@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "zindagiorien",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "zindagiorien",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "ZindagiSMP.aternos.me",
+    "port":"15641",
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "zindagismp"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "join for help: https://discord.gg/Fr5Uz7BBTw",
+        "fact:gold pick can't mine gold"
       ]
     },
     "chat-log": true,
